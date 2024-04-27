@@ -128,7 +128,8 @@ These OCR products don’t just spit out the raw text, either. They also can rea
       "content": "Missense"
     }
   }
-]```
+]
+```
 
 This particularly magical feature converts unstructured patient records into a list of structured data fields, and serves it up on a platter for clinicians, researchers or innovators. This makeover from a crude, unstructured blob of data to a clean, structured JSON file opens a world of new possibilities. For example, you could migrate this newly structured data into an electronic health record and liberate clinicians from the friction incurred when interacting with this data in their point of care workflows. You might also offer the data to a quality improvement team and see where they can find opportunities for better patient outcomes, or offer the data to population health researchers who want to investigate trends, patterns, and risk factors across large patient populations. The use cases are limited only by your imagination.  
 
